@@ -7,7 +7,9 @@ Side quest project in Wes:Hack - GameDev Version
 
 ### Senior's
 
-WIP - ( We are still working on this )
+Create a text-based adventure game with at least 3 rooms, each with its own description and items.
+
+You must include a basic health point system, and basic mobs, we wont judge on art work, so you may use anything.
 
 ### Junior's
 
